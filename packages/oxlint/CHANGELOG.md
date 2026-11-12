@@ -1,5 +1,12 @@
 # @weapp-vite/oxlint
 
+## 0.1.4
+
+### Patch Changes
+
+- Updated dependencies:
+  - @weapp-vite/language-service@0.1.4
+
 ## 0.1.3
 
 ### Patch Changes

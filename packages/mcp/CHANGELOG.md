@@ -1,5 +1,12 @@
 # @weapp-vite/mcp
 
+## 2.2.5
+
+### Patch Changes
+
+- Updated dependencies:
+  - weapp-ide-cli@6.4.4
+
 ## 2.2.4
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @weapp-agent/cli
 
+## 0.2.5
+
+### Patch Changes
+
+- Updated dependencies:
+  - @weapp-vite/mcp@2.2.5
+  - weapp-ide-cli@6.4.4
+
 ## 0.2.4
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @weapp-vite/web
 
+## 2.2.4
+
+### Patch Changes
+
+- Updated dependencies:
+  - wevu@7.10.1
+
 ## 2.2.3
 
 ### Patch Changes

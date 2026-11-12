@@ -2721,6 +2721,10 @@
     - dependency-upgrade-20261111-145505
     - issue-1313-reactive-inline
     - wechat-components-ba892ab1e7f2a8ca
+"@wevu/compiler@7.10.1":
+  dir: packages-runtime/wevu-compiler
+  intents:
+    - quiet-vue-template-dependencies
 "@wevu/compiler@7.2.0":
   dir: packages-runtime/wevu-compiler
   intents:
@@ -3695,6 +3699,11 @@ create-weapp-vite@3.6.0:
     - request-globals-atob-early-polyfill
     - scaffold-owned-cli
     - wechat-components-ba892ab1e7f2a8ca
+create-weapp-vite@3.6.1:
+  dir: packages/create-weapp-vite
+  intents:
+    - quiet-hmr-recovery
+    - quiet-vue-template-dependencies
 rolldown-require@2.0.26:
   dir: packages/rolldown-require
   intents:
@@ -3963,6 +3972,10 @@ weapp-ide-cli@6.4.3:
     - catalog-upgrade-20261111-145530
     - dependency-upgrade-20261110-214327
     - dependency-upgrade-20261111-145505
+weapp-ide-cli@6.4.4:
+  dir: packages/weapp-ide-cli
+  intents:
+    - fix-terminal-file-links
 weapp-vite-plugin-template@1.0.0:
   dir: templates/weapp-vite-plugin-template
   intents:
@@ -4181,6 +4194,11 @@ weapp-vite@7.10.0:
     - request-globals-atob-early-polyfill
     - request-globals-ky-early-capabilities
     - wechat-components-ba892ab1e7f2a8ca
+weapp-vite@7.10.1:
+  dir: packages/weapp-vite
+  intents:
+    - quiet-hmr-recovery
+    - quiet-vue-template-dependencies
 weapp-vite@7.2.0:
   dir: packages/weapp-vite
   intents:
@@ -4560,6 +4578,10 @@ wevu@7.10.0:
     - dependency-upgrade-20261111-145505
     - issue-1313-reactive-inline
     - package-owned-skills
+wevu@7.10.1:
+  dir: packages-runtime/wevu
+  intents:
+    - quiet-vue-template-dependencies
 wevu@7.2.0:
   dir: packages-runtime/wevu
   intents:
